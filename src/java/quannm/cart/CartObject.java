@@ -19,7 +19,7 @@ import quannm.tbl_product.tbl_productDTO;
  */
 //đặt khác vì nó không mapping vs DB
 public class CartObject implements Serializable {
-
+//thêm code nhe
     private Map<String, tbl_productDTO> items;
     //không tồn tại set vì bỏ từng món vào giỏ chứ không úp sọt khác vào giỏ
 
